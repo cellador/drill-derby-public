@@ -22,7 +22,7 @@ Input is abstracted using the command pattern (See [CharacterInput.cs](/Assets/S
 
 **Cold Start**
 
-The game can be cold-started from a game scene as long as the scene contains a [WorldManager](/Assets/Scripts/Gameplay/WorldManager.cs). We call the singletons [WorldManager](/Assets/Scripts/Input/InputManager.cs) and [GameManager](/Assets/Scripts/Gameplay/GameManager.cs) which come with a default configuration to quickly test gameplay without going through the menu.
+The game can be cold-started from a game scene as long as the scene contains a [WorldManager](/Assets/Scripts/Gameplay/WorldManager.cs). We call the singletons [InputManager](/Assets/Scripts/Input/InputManager.cs) and [GameManager](/Assets/Scripts/Gameplay/GameManager.cs) which come with a default configuration to quickly test gameplay without going through the menu.
 
 **Character Controller**
 
