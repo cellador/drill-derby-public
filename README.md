@@ -2,6 +2,8 @@
 
 A 2-4 player couch-multiplayer action game. Crash into your opponents and be the last one to survive. Play with multiple people on a single keyboard, using Xbox 360 gamepads or any combination thereof.
 
+Download the game right here on github (see release section).
+
 ![in-game screenshots of menu and gameplay scenes of drill derby (moritzkirschner.com)](/montage.jpg?raw=true "Drill Derby Screenshots (moritzkirschner.com)")
 
 # Overview
